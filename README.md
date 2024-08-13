@@ -40,7 +40,7 @@ pip install tensorflow numpy matplotlib pillow
 
    ```bash
    git clone https://github.com/shanmukhsrisaivedullapalli/CIFAR10.git
-   cd cifar10-image-classification
+   cd CIFAR10
    ```
 
 2. **Run the script:**
