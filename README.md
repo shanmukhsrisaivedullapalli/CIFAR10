@@ -59,12 +59,12 @@ pip install tensorflow numpy matplotlib pillow
 
 Here are some example results:
 
-- **ANN Model:** Achieves around 69.52% accuracy on the testing data.
+- **ANN Model:** Achieves around 69.52% accuracy on the training data and 51.60% on the testing data.
 - **CNN Model:** Achieves around 97.53% accuracy on the training data and 69.52% on the testing data.
 
 ## File Structure
 
-- `cifar10_classification.py`: Main script containing the entire workflow.
+- `cifar10_classification.ipynb`: Main script containing the entire workflow.
 - `ann_model.pkl`: Pickle file containing the trained ANN model.
 - `cnn_model.pkl`: Pickle file containing the trained CNN model.
 - `README.md`: Project overview and instructions.
